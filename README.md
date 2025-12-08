@@ -1,2 +1,2 @@
-# My-First-Program
+# My-First-Day-Program
 
